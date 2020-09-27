@@ -9,9 +9,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /pages/cv.md
-    
+  - title: "Research"
+    url: /research/
+
+  - title: "Equpments"
+    url: /equipments/
+
   - title: "Events"
     url: /posts/    
 
