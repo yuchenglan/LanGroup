@@ -30,14 +30,14 @@ Awards
 * co-PI of DTRA programs
 * PI of programs supported by Universities and companies
 * Subawardee of ARL and DoED projects
-* Editor of two books
-* Guest editor of two peer-reviewed journals
 
 Professional Activities
 ======
 * 2012 - present: Chair
-* 2019 - 2020: Guest Associate Editor of Molecules
 * 2020 - 2021: Guest Associate Editor of Frontiers in Chemistry
+* 2019 - 2020: Guest Associate Editor of Molecules
+* 2017: editor of one book
+* 2015: editor of one book
 
 Selected Publications
 ======
