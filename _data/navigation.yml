@@ -13,7 +13,7 @@ main:
     url: /pages/cv.md
     
   - title: "Events"
-    url: /events/    
+    url: /posts/    
 
   - title: "Students"
     url: /students/
