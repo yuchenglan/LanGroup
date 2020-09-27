@@ -10,4 +10,10 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /pages/
+    
+  - title: "Events"
+    url: /events/    
+
+  - title: "Students"
+    url: /pages/
