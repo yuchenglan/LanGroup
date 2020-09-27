@@ -20,6 +20,9 @@ Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and n
 
 Work Experience
 ======
+* 2014 - present: Associate professor
+* 2013 - 2014: Assistance professor
+* 2011 - 2012: Assistance professor
 
 Awards
 ======
@@ -32,6 +35,9 @@ Awards
 
 Professional Activities
 ======
+* 2012 - present: Chair
+* 2019 - 2020: Guest Associate Editor of Molecules
+* 2020 - 2021: Guest Associate Editor of Frontiers in Chemistry
 
 Selected Publications
 ======
