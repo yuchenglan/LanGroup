@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Research"
     url: /research/
 
-  - title: "Equpments"
+  - title: "Teaching"
+    url: /teaching/    
+
+- title: "Lab Equpiments"
     url: /equipments/
+
+- title: "Publications"
+    url: /publications/    
+
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Events"
     url: /posts/    
