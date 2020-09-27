@@ -84,7 +84,7 @@ author:
   bio              : "Associate Professor of Physics"
   location         : "Baltimore, MD"
   employer         :
-  googlescholar    : #"https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en"
   email            : "yclan2013@gmail.com"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   facebook         :
   foursquare       :
   github           : "academicpages"
-  google_plus      : "https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en"
+  google_plus      : #"https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en"
   keybase          :
   instagram        :
   lastfm           :
