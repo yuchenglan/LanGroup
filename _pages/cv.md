@@ -1,6 +1,3 @@
-# Welcome to Lan Group
-
-![logo](HoneyBee_1M.jpg)
 
 Title
 ====== 
