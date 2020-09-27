@@ -3,9 +3,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Publications"
     url: /publications/    
 
@@ -15,9 +12,9 @@ main:
   - title: "Events"
     url: /posts/    
 
-  - title: "Lab Equpiments"
-    url: /equipments/
-    
   - title: "Talks"
     url: /talks/    
 
+  - title: "Lab Equpiments"
+    url: /equipments/
+    
