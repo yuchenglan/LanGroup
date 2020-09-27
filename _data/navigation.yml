@@ -1,20 +1,20 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+    - title: "Research"
+      url: /research/
 
-  - title: "Publications"
-    url: /publications/    
+    - title: "Publications"
+      url: /publications/    
 
-  - title: "Group Members"
-    url: /members/
+    - title: "Group Members"
+      url: /members/
     
-  - title: "Events"
-    url: /posts/    
+    - title: "Events"
+      url: /posts/    
 
-  - title: "Talks"
-    url: /talks/    
+    - title: "Talks"
+      url: /talks/    
 
-  - title: "Lab Equpiments"
-    url: /equipments/
+    - title: "Lab Equpiments"
+      url: /equipments/
     
