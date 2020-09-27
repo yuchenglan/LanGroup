@@ -10,7 +10,7 @@ redirect_from:
 
 ![HRTEM of Bi2Te3 Grain Boundary](./images/FigLan2009_GrainBoundary.png){:height="45%" width="45%"}
 
-![Nanocomposites](./images/FigLan2010AFM_coverpicture.png){:height="50%" width="50%"}
+![Nanocomposites](./images/FigLan2010AFM_coverpicture.png){:height="45%" width="45%"}
 
 ![2D thermosensors](./images/Thermometers.png)
 
