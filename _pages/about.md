@@ -8,18 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Lan's Group! I'm an Assistant Professor of Physiscs.  I obtained my PhD in Condensed Matter Physics at the Institute of Phyiscs, Chinese Academy of Sciences, China, advised by Professor Kunquna Lu.  My research work is in the area of renewable energy, sensing, and nanotechniques.  More specifically, I have been studying nanostructed materials for energy and sensors.  
-
-Research Interests
-------
-Renewable energy, photo-/electro-catalysts, sensing, nanostructured functional materials, and electron microscopies.  The main interest is to synthesize strutured materials, investigate phonon and electron transport at nanoscale, and develop their applications in thermoelectrics, photovoltaics, electrocatalytics, and bio-/thermo-sensors.
-
-
-Ongoing Project(s)
-------
-* Thermoelectrics
-* Photovoltaics
-* Sensors
-* Catalytics
-* Nanomechanics
-* Python-based Instrumentation
+Welcome to Lan's Group! This is a cutting-edge research group consisting of faculties and students from physics, mathematics, biology,  and engineering. We are synthesizing and characterizating structured materials, fabricating devices and doing instrumentation, collecting data and analyzing experimental phenomena, to explore advanced materials and their applications on energy, sensors, and enironments. 
