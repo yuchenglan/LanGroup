@@ -1,3 +1,14 @@
+---
+title: "PI"
+collection: members
+type: "Group Members"
+permalink: /members/PI
+venue: "Informs Annual Meeting (2016)"
+date: 2020-09-01
+location: "Boston, MA"
+---
+
+
 I'm an Asscoiate Professor of Physiscs.  I obtained my PhD in Condensed Matter Physics at the Institute of Phyiscs, Chinese Academy of Sciences, China, advised by Professor Kunquna Lu.  My research work is in the area of renewable energy, sensing, and nanotechniques.  More specifically, I have been studying nanostructed materials for energy and sensors.  
 
 
