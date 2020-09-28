@@ -14,12 +14,3 @@ main:
 
     - title: "Events"
       url: /posts/    
-
-    - title: "Talks"
-      url: /talks/    
-
-    - title: "Teaching"
-      url: /teaching/    
-    
-    - title: "Services"
-      url: /services/    
