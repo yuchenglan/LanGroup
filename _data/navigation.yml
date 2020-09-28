@@ -18,4 +18,8 @@ main:
     - title: "Talks"
       url: /talks/    
 
+    - title: "Teaching"
+      url: /teaching/    
     
+    - title: "Services"
+      url: /services/    
