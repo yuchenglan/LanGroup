@@ -3,7 +3,7 @@ title: "PI"
 collection: members
 type: "Group Members"
 permalink: /members/PI
-venue: "Informs Annual Meeting (2016)"
+venue: "Lan's Group"
 date: 2020-09-01
 location: "Boston, MA"
 ---
