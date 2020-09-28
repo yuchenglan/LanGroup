@@ -179,7 +179,7 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
-  equipment:
+  equipments:
     output: true
     permalink: /:collection/:path/
   posts:
