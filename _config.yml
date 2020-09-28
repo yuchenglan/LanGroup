@@ -270,6 +270,14 @@ defaults:
     values:
       layout: equipments
       author_profile: true
+      share: true      
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: sevices
+      author_profile: true
       share: true
       
 # Sass/SCSS
