@@ -188,15 +188,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  services:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -219,15 +210,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -246,28 +228,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _research
   - scope:
       path: ""
       type: research
     values:
       layout: research
-      author_profile: true
-      share: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
       author_profile: true
       share: true
   # _members
@@ -286,14 +252,6 @@ defaults:
       layout: equipments
       author_profile: true
       share: true      
-  # _services
-  - scope:
-      path: ""
-      type: services
-    values:
-      layout: sevices
-      author_profile: true
-      share: true
       
 # Sass/SCSS
 sass:
