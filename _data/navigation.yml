@@ -9,12 +9,13 @@ main:
     - title: "Group Members"
       url: /members/
     
+    - title: "Lab Equpiments"
+      url: /equipments/
+
     - title: "Events"
       url: /posts/    
 
     - title: "Talks"
       url: /talks/    
 
-    - title: "Lab Equpiments"
-      url: /equipments/
     
