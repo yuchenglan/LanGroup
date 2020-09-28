@@ -27,3 +27,6 @@ Renewable energy, photo-/electro-catalysts, sensing, nanostructured functional m
 * Python-based Instrumentation
 
 
+## CV
+[CV](/members/PI-CV.md)
+
