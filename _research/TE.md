@@ -1,9 +1,8 @@
 ---
-title: "Research"
+title: ""
 collection: research
 permalink: /research/TE
 venue: "Lan's Group"
-
 ---
 
 
