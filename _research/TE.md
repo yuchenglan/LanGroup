@@ -1,3 +1,10 @@
+---
+title: "Research"
+collection: research
+permalink: /research/TE
+---
+
+
 * Thermoelectrics
 * Photovoltaics
 * Sensors
