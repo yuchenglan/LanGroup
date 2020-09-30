@@ -4,8 +4,6 @@ collection: members
 type: "Group Members"
 permalink: /members/PI.md
 venue: "Lan's Group"
-date: 2020-09-01
-location: "Boston, MA"
 ---
 
 
