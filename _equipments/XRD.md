@@ -9,7 +9,7 @@ location: "Baltimore, MD"
 ---
 
 
-![ScintagXRD](/equipments/ScintagPADXRD.jpg)
+![ScintagXRD](/images/ScintagPADXRD.jpg)
 
 Scintag PAD-V high precision automated X-ray diffractometer (Scintag Inc., USA).
 
