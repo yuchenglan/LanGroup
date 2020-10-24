@@ -9,7 +9,7 @@ location: "Baltimore, MD"
 ---
 
 
-![DSC](/equipments/SetaramDSC.png)
+![DSC](SetaramDSC.png)
 
 
 
