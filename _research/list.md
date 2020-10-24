@@ -11,4 +11,5 @@ venue: "Lan's Group"
 * Sensing
 * Catalytics
 * Nanomechanics
-* Crystallography, electron microscopy, and X-ray powder diffraction  
+* Crystallography, electron microscopy, and X-ray powder diffraction
+* Python and \LaTex
