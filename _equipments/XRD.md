@@ -27,6 +27,7 @@ Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter.
 
 
 ---
+
 ![PhilippsXRD](?.png)
 
 Philips X’Pert X-ray Diffractometer (Philips, USA)
@@ -38,6 +39,7 @@ Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter
   * Detectors: sealed proportional counter
 
 ---
+
 ![RigakuXRD](?.png)
 
 Rigaku MiniFlex desktop X-ray diffractometer (Rigaku)
