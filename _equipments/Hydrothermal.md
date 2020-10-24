@@ -2,7 +2,7 @@
 title: "Hydrothermal system"
 collection: equipments
 type: "Equipments"
-permalink: /equipments/Hydrothermal.
+permalink: /equipments/Hydrothermal
 venue: "Lan's Group"
 date: 2020-10-01
 location: "Baltimore, MD"
