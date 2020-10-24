@@ -23,4 +23,4 @@ Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter.
   * Sample holders: an air sensitive sample holder, a heating stage (−30 C – 100 C)
   * Standard Reference Materials (SRM): Si (NIST SRM 640b), LaB6 (NIST SRM 660c), quartz stones, and Si polycrystals.
   * General Structure Analysis System (GASA) kits.
-  * Carrying out phase identification, phase quantification, percent (%) crystallinity, crys- tallite size and strain, lattice parameter refinement, Rietveld refinement, crystallo- graphic structure, etc.
+  * Carrying out phase identification, phase quantification, percent (%) crystallinity, crystallite size and strain, lattice parameter refinement, Rietveld refinement, crystallographic structure, etc.
