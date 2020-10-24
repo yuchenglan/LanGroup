@@ -1,3 +1,16 @@
+---
+title: "X-ray diffractometer"
+collection: equipments
+type: "Equipments"
+permalink: /equipments/XRD
+venue: "Lan's Group"
+date: 2020-10-01
+location: "Baltimore, MD"
+---
+
+
+![ScintagXRD](/equipments/ScintagXRD)
+
 Scintag PAD-V high precision automated X-ray diffractometer (Scintag Inc., USA).
 
 Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter.
