@@ -46,8 +46,3 @@ Rigaku MiniFlex desktop X-ray diffractometer (Rigaku)
 * current: 15 mA
 * step width: 0.02 degree
 * 2 theta scan range: 3 - 120 degree  
-
-Philips X’Pert X-ray Diffractometer (Philips, USA)
-
-(coming)
-
