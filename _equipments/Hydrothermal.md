@@ -13,7 +13,7 @@ location: "Baltimore, MD"
 
 LECO HR-1B-2 Hydrothermal System (Leco Corp., TEM-Pres Div.)
 
-* Controllable pressure: up to 2 − 20 MPa (∼ 20 − 200 atm).
+* Controllable pressure: up to 2 − 20 MPa (20 − 200 atm).
 * Temperature: up to 500 C.
 * Synthesizing functional nanomaterials.
  
