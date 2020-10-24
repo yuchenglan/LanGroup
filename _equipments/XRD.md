@@ -26,6 +26,7 @@ Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter.
   * Carrying out phase identification, phase quantification, percent (%) crystallinity, crystallite size and strain, lattice parameter refinement, Rietveld refinement, crystallographic structure, etc.
 
 
+---
 ![PhilippsXRD](?.png)
 
 Philips X’Pert X-ray Diffractometer (Philips, USA)
@@ -36,6 +37,7 @@ Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter
   * Output: up to 3,000 Watts
   * Detectors: sealed proportional counter
 
+---
 ![RigakuXRD](?.png)
 
 Rigaku MiniFlex desktop X-ray diffractometer (Rigaku)
