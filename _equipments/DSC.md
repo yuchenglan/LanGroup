@@ -9,7 +9,7 @@ location: "Baltimore, MD"
 ---
 
 
-![scanning electron microscopy](/equipments/DSC.jpg)
+![DSC](/equipments/SetaramDSC.jpg)
 
 
 
