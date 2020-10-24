@@ -12,4 +12,4 @@ venue: "Lan's Group"
 * Catalytics
 * Nanomechanics
 * Crystallography, electron microscopy, and X-ray powder diffraction
-* Python and \LaTex
+* Python and LaTex
