@@ -9,12 +9,12 @@ location: "Baltimore, MD"
 ---
 
 
-![ScintagXRD](/equipments/ScintagXRD)
+![ScintagXRD](/equipments/ScintagPADXRD)
 
 Scintag PAD-V high precision automated X-ray diffractometer (Scintag Inc., USA).
 
 Cu-Kα X-ray radiation (λ = 1.54184 A) with Ni filter.
-  * Output: up to 2000 Watts.
+  * Output: up to 2,000 Watts.
   * Voltage and current: 45 kV and 40 mA (experts), 40 kV and 30 mA (novices).
   * Vertically mounted scanning 2θ range: 0.8 – 160.
   * Scanning step (2θ) (resolution): 0.001.
