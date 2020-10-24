@@ -3,7 +3,7 @@ title: "SEM"
 collection: equipments
 type: "Equipments"
 permalink: /equipments/SEM
-venue: "Informs Annual Meeting (2016)"
+venue: "Lan's Group"
 date: 2020-10-01
 location: "Baltimore, MD"
 ---
