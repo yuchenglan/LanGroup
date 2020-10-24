@@ -1,14 +1,14 @@
 ---
 title: ""
 collection: research
-permalink: /research/TE
+permalink: /research/list
 venue: "Lan's Group"
 ---
 
 
 * Thermoelectrics
 * Photovoltaics
-* Sensors
+* Sensing
 * Catalytics
 * Nanomechanics
-* Python-based Instrumentation
+* Crystallography, electron microscopy, and X-ray powder diffraction  
