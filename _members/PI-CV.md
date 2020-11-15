@@ -19,20 +19,20 @@ Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and n
 
 Work Experience
 ======
-* 2014 - present: Associate professor
-* 2013 - 2014: Assistance professor
-* 2011 - 2012: Assistance professor
+* 2014 - present: Associate professor at Morgan State University
+* 2013 - 2014: Assistance professor at the University of Houston
+* 2011 - 2012: Assistance professor at Boston College
 
 Awards
 ======
-* PI of DOE awards
-* co-PI of DTRA programs
+* PI of DOE award
+* co-PI of DTRA program
 * PI of programs supported by Universities and companies
 * Subawardee of ARL and DoED projects
 
 Professional Activities
 ======
-* 2012 - present: Chair
+* 2012 - present: Task Group Chair of the International Centre for Diffraction Data (ICDD)
 * 2020 - 2021: Guest Associate Editor of Frontiers in Chemistry
 * 2019 - 2020: Guest Associate Editor of Molecules
 * 2017: editor of one book
@@ -40,7 +40,7 @@ Professional Activities
 
 Selected Publications
 ======
-(Total: 140, h-Index: 44, i10-index: 96, citations: 15,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
+(Total: 140+, h-Index: 44, i10-index: 96, citations: 15,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
 
 * Jesse Dampare, Mobolaji Zondode, Sz-Chian Liou, Birol Ozturk, Hongtao Yu, and Yucheng Lan, EELS Investigations of Carbon-rich Boron Carbide Nanomaterials, _Microscopy & Microanalysis_ **24** (2018) 1756 – 1757.
 * Aiwu Wang, Li Fu, Chundong Wang, Winnie Wong-Ng, and Yucheng Lan, Recent Advances of Graphitic Carbon Nitride-Based Structures and Applications in Catalyst, Sensing, Imaging, and LEDs, _Nano-Micro Letters_ **9** (2017) 47-1 – 47-21
@@ -57,4 +57,5 @@ Selected Publications
   
 Teaching
 ======
-<ul>{% for post in site.teaching %}{% endfor %}</ul>
+Algebra-based Mechanics, Analytical Mechanics, Classical Mechanics, Thermal Physics, and Electromagnetism.
+
