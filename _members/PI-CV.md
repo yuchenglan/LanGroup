@@ -1,5 +1,4 @@
-Title
-====== 
+# Title
   * Associate Professor of Physics
   * WeChat: yclan2014
   * Skype: yucheng.lan
@@ -7,39 +6,33 @@ Title
   * ORCID: 0000-0002-6737-4168
   * Web of Science ResearcherID: F-9501-2011
 
-Education
-======
+# Education
 * Ph.D. in Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, 1998
 * M.S. in Solid State Physics, Department of Physics, Jilin University, 1995
 * B.S. in Solid State Physics, Department of Physics, Jilin University, 1992
 
-Research Interests
-======
+# Research Interests
 Renewable energy, nanosensing, electron microscopy, X-ray crystallography, and nanomaterials / quantum materials. The main interest is to synthesize functional materials, characterize properties using diffraction / imaging / spectroscopies, investigate photon/electron / phonon transport at nanoscale, and develop their applications in thermoelectrics / photovoltaics / electrocatalytics / sensors.  
 
-Work Experience
-======
+# Work Experience
 * 2014 - present: Associate professor at Morgan State University
 * 2013 - 2014: Assistance professor at the University of Houston
 * 2011 - 2012: Assistance professor at Boston College
 
-Awards
-======
+# Awards
 * PI of DOE award
 * co-PI of DTRA program
 * PI of programs supported by Universities and companies
 * Subawardee of ARL and DoED projects
 
-Professional Activities
-======
+# Professional Activities
 * 2012 - present: Task Group Chair of the International Centre for Diffraction Data (ICDD)
 * 2020 - 2021: Guest Associate Editor of Frontiers in Chemistry
 * 2019 - 2020: Guest Associate Editor of Molecules
 * 2017: editor of one book
 * 2015: editor of one book
 
-Selected Publications
-======
+# Selected Publications
 (Total: 140+, h-Index: 44, i10-index: 96, citations: 15,000) and [Citations](https://scholar.google.com/citations?user=xtJ-O98AAAAJ&hl=en)
 
 * Jesse Dampare, Mobolaji Zondode, Sz-Chian Liou, Birol Ozturk, Hongtao Yu, and Yucheng Lan, EELS Investigations of Carbon-rich Boron Carbide Nanomaterials, _Microscopy & Microanalysis_ **24** (2018) 1756 – 1757.
@@ -53,9 +46,6 @@ Selected Publications
 * Y. C. Lan, B. Poudel, Y. Ma, D. Z. Wang, M. S. Dresselhaus, G. Chen, and Z. F. Ren, Structure Study of Bulk Nanograined Thermoelectric Bismuth Antimony Telluride, _Nano Letters_ **9** (2009) 1419 - 1422.
 * B. Poudel, Q. Hao, Y. Ma, Y. C. Lan, A. Minnich, B. Yu, X. Yan, D. Z. Wang, A. Muto, D. Vashaee, X. Y. Chen, J. M. Liu, M. S. Dresselhaus, G. Chen, and Z. F. Ren, High-thermoelectric Performance of Nanostructured Bismuth Antimony Telluride Bulk Alloys, _Science_ **320** (2008) 634 - 638.
 
- <ul>{% for post in site.publications %}{% endfor %}</ul>
-  
-Teaching
-======
+# Teaching
 Algebra-based Mechanics, Analytical Mechanics, Classical Mechanics, Thermal Physics, and Electromagnetism.
 
