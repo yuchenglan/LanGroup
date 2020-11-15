@@ -37,5 +37,5 @@ Renewable energy, photo-/electro-catalysts, sensing, nanostructured functional m
 
 
 ## CV
-[CV](./members/PI-CV.md)
+[CV](PI-CV.md)
 
