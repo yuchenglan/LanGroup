@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pages/about.md
 title: "Lan's Group"
 excerpt: "About me"
 author_profile: true
