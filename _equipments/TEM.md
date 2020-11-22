@@ -11,6 +11,4 @@ location: "Baltimore, MD"
 
 ![TEM](TEM.png)
 
-(coming)
-
-* 140 kV
+JEOL 1400-Plus (coming)(manager)
