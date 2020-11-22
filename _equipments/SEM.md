@@ -9,8 +9,7 @@ location: "Baltimore, MD"
 ---
 
 
-![SEM](SEM.png)
+![SEM](HitachiS5500_SEM.png)
 
-Hitachi
+Hitachi (manager)
 
-*
