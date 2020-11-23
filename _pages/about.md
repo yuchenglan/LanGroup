@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 ![2D thermosensors](./images/Thermometers.png){:height="40%" width="40%"} &nbsp; ![Nanocomposites](./images/FigLan2010AFM_coverpicture.png){:height="50%" width="50%"}  
